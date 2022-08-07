@@ -1,0 +1,16 @@
+{
+  "name": "images-log",
+  "version": "1.0.0",
+  "description": "fetch images from api and save them in a backup folder",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "jperchoc",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-html-parser": "^5.3.3"
+  }
+}
